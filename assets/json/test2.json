@@ -1,0 +1,77 @@
+{
+ "name": "CauseOfDeath",
+ "children": [
+  {
+     "name": "Diseases of heart",
+     "children": [
+      {"name": "White female", "value": 251611},
+      {"name": "Black or African American female", "value": 34267},
+      {"name": "American Indian or Alaska Native female", "value": 1173},
+      {"name": "Asian or Pacific Islander female", "value": 5137}
+     ]
+    },
+    {
+     "name": "Malignant neoplasms",
+     "children": [
+      {"name": "White female", "value": 231953},
+      {"name": "Black or African American female", "value": 31206},
+      {"name": "American Indian or Alaska Native female", "value": 1329},
+      {"name": "Asian or Pacific Islander female", "value": 6377}
+     ]
+    },
+    {
+     "name": "Cerebrovascular diseases",
+     "children": [
+      {"name": "White female", "value": 65574},
+      {"name": "Black or African American female", "value": 8916},
+      {"name": "American Indian or Alaska Native female", "value": 298},
+      {"name": "Asian or Pacific Islander female", "value": 1981}
+     ]
+    },
+    {
+     "name": "Unintentional injuries",
+     "children": [
+      {"name": "White female", "value": 37669},
+      {"name": "Black or African American female", "value": 3991},
+      {"name": "American Indian or Alaska Native female", "value": 583},
+      {"name": "Asian or Pacific Islander female", "value": 756}
+     ]
+    },
+    {
+     "name": "Pneumonia and influenza",
+     "children": [
+      {"name": "White female", "value": 24818},
+      {"name": "Black or African American female", "value": 0},
+      {"name": "American Indian or Alaska Native female", "value": 209},
+      {"name": "Asian or Pacific Islander female", "value": 759}
+     ]
+    },
+    {
+     "name": "Diabetes mellitus",
+     "children": [
+      {"name": "White female", "value": 25908},
+      {"name": "Black or African American female", "value": 6472},
+      {"name": "American Indian or Alaska Native female", "value": 368},
+      {"name": "Asian or Pacific Islander female", "value": 903}
+     ]
+    },
+    {
+     "name": "Nephritis and hrotic syndrome and nephrosis ",
+     "children": [
+      {"name": "White female", "value": 19446},
+      {"name": "Black or African American female", "value": 4834},
+      {"name": "American Indian or Alaska Native female", "value": 181},
+      {"name": "Asian or Pacific Islander female", "value": 544}
+     ]
+    },
+    {
+     "name": "Septicemia",
+     "children": [
+      {"name": "White female", "value": 15403},
+      {"name": "Black or African American female", "value": 3434},
+      {"name": "American Indian or Alaska Native female", "value": 148},
+      {"name": "Asian or Pacific Islander female", "value": 0}
+     ]
+    }
+  ]
+}

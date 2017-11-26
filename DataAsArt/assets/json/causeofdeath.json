@@ -1,0 +1,2163 @@
+[  
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"761085"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"416509"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"170225"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"105718"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"56050"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"54619"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"34851"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"30583"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Atherosclerosis ",
+          "NumberOfDeath":"29449"
+       },
+       {  
+          "Title":"All persons,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"26869"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"405661"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"225948"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"74180"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"69973"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"38625"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"27574"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"20505"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"19768"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"18779"
+       },
+       {  
+          "Title":"Male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"14325"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"355424"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"190561"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"100252"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"31538"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"27045"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"20526"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Atherosclerosis ",
+          "NumberOfDeath":"17848"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"17425"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"10815"
+       },
+       {  
+          "Title":"Female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"9815"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"683347"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"368162"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"148734"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"90122"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"52375"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"48369"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"28868"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Atherosclerosis ",
+          "NumberOfDeath":"27069"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"25240"
+       },
+       {  
+          "Title":"White,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"24829"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"72956"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"45037"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"20135"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"13480"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"10172"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"6961"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"5648"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"5544"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"4790"
+       },
+       {  
+          "Title":"Black or African American,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis  ",
+          "NumberOfDeath":"3416"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"1494"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"1290"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"770"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"410"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"322"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"257"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"217"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"210"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"199"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"181"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"3265"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"2522"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"1028"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"810"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"342"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"249"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"246"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"227"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"211"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"207"
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or  Latino,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"364679"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"198188"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"62963"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"60095"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"35977"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"23810"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"18901"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"16407"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"12125"
+       },
+       {  
+          "Title":"White male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Atherosclerosis ",
+          "NumberOfDeath":"10543"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"37877"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"25861"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"9701"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"9194"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"8274"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"3869"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"3386"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"3020"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"2429"
+       },
+       {  
+          "Title":"Black or African American male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"2010"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"946"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"917"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"408"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"239"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"163"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"162"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"148"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"147"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"107"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"86"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"2174"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"1485"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"556"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"521"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"227"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"159"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"158"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"151"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"128"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"103"
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latino male,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"318668"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"169974"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"88639"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"27159"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"24559"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"16743"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Atherosclerosis ",
+          "NumberOfDeath":"16526"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic obstructive pulmonary diseases ",
+          "NumberOfDeath":"16398"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"8833"
+       },
+       {  
+          "Title":"White female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"6512"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"35079"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"19176"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"10941"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"3779"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"3534"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"3092"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"2262"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"1898"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"1770"
+       },
+       {  
+          "Title":"Black or African American female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosi ",
+          "NumberOfDeath":"1722"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"577"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"362"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"344"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"171"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"159"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"124"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"109"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"92"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosi ",
+          "NumberOfDeath":"56"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"55"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"1091"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"1037"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"507"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"254"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"124"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Certain conditions originating in the perinatal period ",
+          "NumberOfDeath":"118"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Pneumonia and influenza ",
+          "NumberOfDeath":"115"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Congenital anomalies ",
+          "NumberOfDeath":"104"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"90"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"60"
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"Hispanic or Latina female,1980",
+          "Year":"1980",
+          "CauseOfDeath":"",
+          "NumberOfDeath":""
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"599413"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"567628"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"137353"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"128842"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"118021"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"79003"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"68705"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"53692"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"48935"
+       },
+       {  
+          "Title":"All persons,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"36909"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"307225"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"296763"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"75022"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"65119"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"52073"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"35054"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"29089"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"25128"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"23930"
+       },
+       {  
+          "Title":"Male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"23900"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"292188"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"270865"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"76769"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"72234"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"55103"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"42999"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"33651"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"28564"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"25005"
+       },
+       {  
+          "Title":"Female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"19268"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"515587"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"486995"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"126733"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"108764"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"102170"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"72696"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"54113"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"46432"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"38758"
+       },
+       {  
+          "Title":"White,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"33425"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"69687"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"64649"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"15878"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"12074"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"11960"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"8808"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"8530"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"7874"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"6179"
+       },
+       {  
+          "Title":"Black or African American,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Human immunodeficiency virus (HIV) disease ",
+          "NumberOfDeath":"5377"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"2764"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"2710"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"1733"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"786"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"714"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"610"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"561"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"429"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"402"
+       },
+       {  
+          "Title":"American Indian or Alaska Native,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"307"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"13274"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"11375"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"3639"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"2044"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"1846"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"1568"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"1480"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"1062"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"1024"
+       },
+       {  
+          "Title":"Asian or Pacific Islander,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"971"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"29935"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"29611"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"10654"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"7065"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"6311"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"4303"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"4026"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"3679"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"3179"
+       },
+       {  
+          "Title":"Hispanic or  Latino,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"3107"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"263976"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"255042"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"64501"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"59465"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"43190"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"28205"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"26426"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"22066"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"21614"
+       },
+       {  
+          "Title":"White male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"19312"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"35420"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"33443"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"8083"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"6962"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"6715"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"5488"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"4503"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"3974"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Human immunodeficiency virus (HIV) disease ",
+          "NumberOfDeath":"3535"
+       },
+       {  
+          "Title":"Black or African American male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"2745"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"1591"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"1381"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"1150"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"418"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"380"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"313"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"287"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"263"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"193"
+       },
+       {  
+          "Title":"American Indian or Alaska Native male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"1"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"6897"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"6238"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"1658"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"1288"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"943"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"864"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"809"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"666"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"518"
+       },
+       {  
+          "Title":"Asian or Pacific Islander male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"318"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"16301"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"15772"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"7841"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"3288"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"3212"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"2969"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Homicide ",
+          "NumberOfDeath":"2635"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Suicide ",
+          "NumberOfDeath":"2135"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"2024"
+       },
+       {  
+          "Title":"Hispanic or Latino male,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"1882"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"251611"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"231953"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"67268"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"65574"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"50630"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"37669"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"25908"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"24818"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"19446"
+       },
+       {  
+          "Title":"White female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"15403"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"34267"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"31206"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"8916"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"6472"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"4834"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"4027"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"3991"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"3639"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"3434"
+       },
+       {  
+          "Title":"Black or African American female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Essential hypertension and hypertensive renal disease ",
+          "NumberOfDeath":"2802"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"1329"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"1173"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"583"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"368"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"334"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"323"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"298"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"209"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"181"
+       },
+       {  
+          "Title":"American Indian or Alaska Native female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Septicemia ",
+          "NumberOfDeath":"148"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"6377"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"5137"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"1981"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"903"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"759"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"756"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"706"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"616"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"544"
+       },
+       {  
+          "Title":"Asian or Pacific Islander female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Essential hypertension and hypertensive renal disease ",
+          "NumberOfDeath":"410"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Malignant neoplasms ",
+          "NumberOfDeath":"14163"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diseases of heart ",
+          "NumberOfDeath":"13310"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Cerebrovascular diseases ",
+          "NumberOfDeath":"3777"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Diabetes mellitus ",
+          "NumberOfDeath":"3099"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Unintentional injuries ",
+          "NumberOfDeath":"2813"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Alzheimer's disease ",
+          "NumberOfDeath":"2013"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic lower respiratory diseases ",
+          "NumberOfDeath":"2002"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Influenza and pneumonia ",
+          "NumberOfDeath":"1797"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Nephritis and hrotic syndrome and nephrosis ",
+          "NumberOfDeath":"1514"
+       },
+       {  
+          "Title":"Hispanic or Latina female,2009",
+          "Year":"2009",
+          "CauseOfDeath":"Chronic liver disease and cirrhosis ",
+          "NumberOfDeath":"1334"
+       }
+    ]
+ 

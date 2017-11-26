@@ -1,0 +1,77 @@
+{
+ "name": "CauseOfDeath",
+ "children": [
+  {
+     "name": "Diseases of heart",
+     "children": [
+      {"name": "White female", "value": 318668},
+      {"name": "Black or African American female", "value": 35079},
+      {"name": "American Indian or Alaska Native female", "value": 577},
+      {"name": "Asian or Pacific Islander female", "value": 1091}
+     ]
+    },
+    {
+     "name": "Malignant neoplasms",
+     "children": [
+      {"name": "White female", "value": 169974},
+      {"name": "Black or African American female", "value": 19176},
+      {"name": "American Indian or Alaska Native female", "value": 362},
+      {"name": "Asian or Pacific Islander female", "value": 1037}
+     ]
+    },
+    {
+     "name": "Cerebrovascular diseases",
+     "children": [
+      {"name": "White female", "value": 88639},
+      {"name": "Black or African American female", "value": 10941},
+      {"name": "American Indian or Alaska Native female", "value": 159},
+      {"name": "Asian or Pacific Islander female", "value": 507}
+     ]
+    },
+    {
+     "name": "Unintentional injuries",
+     "children": [
+      {"name": "White female", "value": 27159},
+      {"name": "Black or African American female", "value": 3779},
+      {"name": "American Indian or Alaska Native female", "value": 344},
+      {"name": "Asian or Pacific Islander female", "value": 254}
+     ]
+    },
+    {
+     "name": "Pneumonia and influenza",
+     "children": [
+      {"name": "White female", "value": 24559},
+      {"name": "Black or African American female", "value": 2262},
+      {"name": "American Indian or Alaska Native female", "value": 109},
+      {"name": "Asian or Pacific Islander female", "value": 115}
+     ]
+    },
+    {
+     "name": "Diabetes mellitus",
+     "children": [
+      {"name": "White female", "value": 16743},
+      {"name": "Black or African American female", "value": 3534},
+      {"name": "American Indian or Alaska Native female", "value": 124},
+      {"name": "Asian or Pacific Islander female", "value": 124}
+     ]
+    },
+    {
+     "name": "Chronic obstructive pulmonary diseases",
+     "children": [
+      {"name": "White female", "value": 16398},
+      {"name": "Black or African American female", "value": 1770},
+      {"name": "American Indian or Alaska Native female", "value": 0},
+      {"name": "Asian or Pacific Islander female", "value": 124}
+     ]
+    },
+    {
+     "name": "Homicide",
+     "children": [
+      {"name": "White female", "value": 10},
+      {"name": "Black or African American female", "value": 1898},
+      {"name": "American Indian or Alaska Native female", "value": 55},
+      {"name": "Asian or Pacific Islander female", "value": 60}
+     ]
+    }
+  ]
+}
