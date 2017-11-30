@@ -67,7 +67,7 @@
     {
      "name": "Homicide",
      "children": [
-      {"name": "White female", "value": 10},
+      {"name": "White female", "value": 0},
       {"name": "Black or African American female", "value": 1898},
       {"name": "American Indian or Alaska Native female", "value": 55},
       {"name": "Asian or Pacific Islander female", "value": 60}

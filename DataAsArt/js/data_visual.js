@@ -1,4 +1,4 @@
-$(function() {  
+$(function() {
 
   function D3_TreeMap() {
   'use strict';
@@ -8,7 +8,7 @@ $(function() {
     const height = 720 - margin.top - margin.bottom;*/
     const color = d3.scaleOrdinal()
               .range(["#EF7087","#A724E8","#8CBAD1","#DDA335","#D981D5","#82CE8C","#839BE6","#C6D445"]);
-        
+
     var margin = {top: 40, right: 10, bottom: 10, left: 10};
         //width = window.innerWidth - margin.left - margin.right,
         //height = 500 - margin.top - margin.bottom;
@@ -35,7 +35,7 @@ $(function() {
 
       //const root = d3.hierarchy(data, (d) => d.children.sum(d) => d.value);
       const root = d3.hierarchy(data, (d) => d.children)
-      .sum((d) => d.value);
+      .sum((d) => (d.value/914763));
       const treeMap = treemap(root);
 
       const node = div.datum(root).selectAll(".node")
@@ -103,10 +103,10 @@ $(function() {
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    
+
     d3.csv("/DataAsArt/assets/csvfiles/data.csv", function(error, data) {
       if(error) throw error;
-      
+
       data.forEach(function(d) {
         d.value = +d.value;
       });
@@ -131,16 +131,16 @@ $(function() {
          .attr("class", "bar--x")
          .attr("transform", "translate(0," + height + ")")
          .call(d3.axisBottom(x).ticks(10))
-        .selectAll("text")  
+        .selectAll("text")
           .style("text-anchor", "begin")
-          .attr("dx", "6em")
+          .attr("dx", "-5em")
           .attr("dy", "-2em")
           .attr("transform", "rotate(-65)");
 
       svg.append("g")
          .call(d3.axisLeft(y).ticks(10, "%"))
          .append("text")
-         .attr("y", 6)
+         .attr("y", 35)
          .attr("text-anchor", "end")
          .text("Percentage");
     });
@@ -156,7 +156,7 @@ $(function() {
   var years = [];
   for(var i = 2000; i < 2016; i++) {
     years.push(i);
-  }  
+  }
 
   $( "#slider-range-max" ).slider({
       range: "max",
@@ -166,7 +166,7 @@ $(function() {
       slide: function( event, ui ) {
         $( "#amount" ).val(ui.value);
         switchImg(ui.value);
-        
+
       }
   });
   $("#amount").val($("#slider-range-max").slider("value"));
@@ -194,7 +194,7 @@ $(function() {
           imgSrc.prop('src', 'images/80.jpg');
           age.text('80');
         }
-      } 
+      }
     }
   }
 

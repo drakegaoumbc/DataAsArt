@@ -5,12 +5,13 @@ body {
 
 .node {
     border: solid 1px white;
-    font: 0.625em sans-serif;
-    line-height: 12px;
+    font: 1.2em sans-serif;
+    line-height: 200%;
     overflow: hidden;
     position: absolute;
     text-indent: 2px;
     cursor: default;
+    color: white;
 }
 
 .ledg{
@@ -45,7 +46,7 @@ a {
 }
 
 .bar {
-  
+
 }
 
 .bar:hover {
@@ -54,5 +55,4 @@ a {
 
 .bar--x text {
       font: 12px sans-serif;
-
 }
