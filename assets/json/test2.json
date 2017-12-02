@@ -3,6 +3,7 @@
  "children": [
   {
      "name": "Diseases of heart",
+     "color": "#EF7087",
      "children": [
       {"name": "White female", "value": 251611},
       {"name": "Black or African American female", "value": 34267},
@@ -12,6 +13,7 @@
     },
     {
      "name": "Malignant neoplasms",
+     "color": "#A724E8",
      "children": [
       {"name": "White female", "value": 231953},
       {"name": "Black or African American female", "value": 31206},
@@ -21,6 +23,7 @@
     },
     {
      "name": "Cerebrovascular diseases",
+     "color": "#8CBAD1",
      "children": [
       {"name": "White female", "value": 65574},
       {"name": "Black or African American female", "value": 8916},
@@ -30,6 +33,7 @@
     },
     {
      "name": "Unintentional injuries",
+     "color": "#DDA335",
      "children": [
       {"name": "White female", "value": 37669},
       {"name": "Black or African American female", "value": 3991},
@@ -39,6 +43,7 @@
     },
     {
      "name": "Pneumonia and influenza",
+      "color": "#D981D5",
      "children": [
       {"name": "White female", "value": 24818},
       {"name": "Black or African American female", "value": 0},
@@ -48,6 +53,7 @@
     },
     {
      "name": "Diabetes mellitus",
+     "color": "#82CE8C",
      "children": [
       {"name": "White female", "value": 25908},
       {"name": "Black or African American female", "value": 6472},
@@ -57,6 +63,7 @@
     },
     {
      "name": "Nephritis and hrotic syndrome and nephrosis ",
+     "color": "#839BE6",
      "children": [
       {"name": "White female", "value": 19446},
       {"name": "Black or African American female", "value": 4834},
@@ -66,6 +73,7 @@
     },
     {
      "name": "Septicemia",
+    "color": "#C6D445",
      "children": [
       {"name": "White female", "value": 15403},
       {"name": "Black or African American female", "value": 3434},

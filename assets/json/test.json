@@ -3,6 +3,7 @@
  "children": [
   {
      "name": "Diseases of heart",
+     "color": "#EF7087",
      "children": [
       {"name": "White female", "value": 318668},
       {"name": "Black or African American female", "value": 35079},
@@ -12,6 +13,7 @@
     },
     {
      "name": "Malignant neoplasms",
+     "color": "#A724E8",
      "children": [
       {"name": "White female", "value": 169974},
       {"name": "Black or African American female", "value": 19176},
@@ -21,6 +23,7 @@
     },
     {
      "name": "Cerebrovascular diseases",
+     "color": "#8CBAD1",
      "children": [
       {"name": "White female", "value": 88639},
       {"name": "Black or African American female", "value": 10941},
@@ -28,8 +31,10 @@
       {"name": "Asian or Pacific Islander female", "value": 507}
      ]
     },
+
     {
      "name": "Unintentional injuries",
+     "color": "#DDA335",
      "children": [
       {"name": "White female", "value": 27159},
       {"name": "Black or African American female", "value": 3779},
@@ -39,6 +44,7 @@
     },
     {
      "name": "Pneumonia and influenza",
+     "color": "#D981D5",
      "children": [
       {"name": "White female", "value": 24559},
       {"name": "Black or African American female", "value": 2262},
@@ -48,6 +54,7 @@
     },
     {
      "name": "Diabetes mellitus",
+     "color": "#82CE8C",
      "children": [
       {"name": "White female", "value": 16743},
       {"name": "Black or African American female", "value": 3534},
@@ -57,6 +64,7 @@
     },
     {
      "name": "Chronic obstructive pulmonary diseases",
+     "color": "#839BE6",
      "children": [
       {"name": "White female", "value": 16398},
       {"name": "Black or African American female", "value": 1770},
@@ -66,6 +74,7 @@
     },
     {
      "name": "Homicide",
+     "color": "#C6D445",
      "children": [
       {"name": "White female", "value": 10},
       {"name": "Black or African American female", "value": 1898},
