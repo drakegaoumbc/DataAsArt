@@ -195,10 +195,8 @@ $(function() {
              .attr("transform", "translate(0," + height + ")")
              .call(d3.axisBottom(x).ticks(10))
             .selectAll("text")
-              .style("display", "none")
-              .attr("dx", "-5em")
-              .attr("dy", "-2em")
-              .attr("transform", "rotate(-65)");
+              .style("display", "none");
+
 
           svg.append("g")
              .call(d3.axisLeft(y).ticks(10, "%"))
