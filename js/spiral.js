@@ -1,4 +1,4 @@
-var width = 500,
+    var width = 500,
       height = 600,
       start = 0,
       end = 2.25,
@@ -16,7 +16,7 @@ var width = 500,
       .domain([start, end])
       .range([40, r]);
 
-    var svg = d3.select("#chart").append("svg")
+    var svg = d3.select("#chart3").append("svg")
       .attr("width", width + margin.right + margin.left)
       .attr("height", height + margin.left + margin.right)
       .append("g")
@@ -126,7 +126,7 @@ var width = 500,
       })
 
 
-    var tooltip = d3.select("#chart")
+    var tooltip = d3.select("#chart3")
     .append('div')
     .attr('class', 'tooltip');
 
@@ -168,8 +168,7 @@ var width = 500,
     });
 
 
-
-var width = 500,
+/*var width = 500,
       height = 600,
       start = 0,
       end = 2.25,
@@ -187,7 +186,7 @@ var width = 500,
       .domain([start, end])
       .range([40, r]);
 
-    var svg = d3.select("#chart2").append("svg")
+    var svg = d3.select("#chart4").append("svg")
       .attr("width", width + margin.right + margin.left)
       .attr("height", height + margin.left + margin.right)
       .append("g")
@@ -297,7 +296,7 @@ var width = 500,
       })
 
 
-    var tooltip2 = d3.select("#chart2")
+    var tooltip2 = d3.select("#chart4")
     .append('div')
     .attr('class', 'tooltip');
 
@@ -337,9 +336,11 @@ var width = 500,
         tooltip2.style('display', 'none');
         tooltip2.style('opacity',0);
     });
+*/
+
 ///////////////////////////////////////////
 
-var width = 500,
+/*var width = 500,
       height = 600,
       start = 0,
       end = 2.25,
@@ -357,7 +358,7 @@ var width = 500,
       .domain([start, end])
       .range([40, r]);
 
-    var svg = d3.select("#chart").append("svg")
+    var svg = d3.select("#chart3").append("svg")
       .attr("width", width + margin.right + margin.left)
       .attr("height", height + margin.left + margin.right)
       .append("g")
@@ -467,7 +468,7 @@ var width = 500,
       })
 
 
-    var tooltip = d3.select("#chart")
+    var tooltip = d3.select("#chart3")
     .append('div')
     .attr('class', 'tooltip');
 
@@ -506,7 +507,7 @@ var width = 500,
 
         tooltip.style('display', 'none');
         tooltip.style('opacity',0);
-    });
+    });*/
 
 
 
@@ -529,7 +530,7 @@ var radius = d3.scaleLinear()
   .domain([start, end])
   .range([40, r]);
 
-var svg = d3.select("#chart2").append("svg")
+var svg = d3.select("#chart4").append("svg")
   .attr("width", width + margin.right + margin.left)
   .attr("height", height + margin.left + margin.right)
   .append("g")
@@ -639,7 +640,7 @@ svg.selectAll("text")
   })
 
 
-var tooltip2 = d3.select("#chart2")
+var tooltip2 = d3.select("#chart4")
 .append('div')
 .attr('class', 'tooltip');
 

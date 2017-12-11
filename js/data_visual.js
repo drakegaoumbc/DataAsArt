@@ -1,4 +1,21 @@
 $(function() {
+
+   // sliding effect/click event on tab
+   /*$(".slide").on('click', function(e) {
+     var $this = $(this);
+     var active = $this.parents('ul#nav-ul').find('li.active');
+     active.removeClass('active');
+     //$this.addClass('active');
+
+     var linkHref = $this.find('a').attr('href');
+     $('html, body').animate({
+       scrollTop: $(linkHref).offset().top
+     });
+     e.preventDefault();
+   });*/
+
+
+
   const color = d3.scaleOrdinal()
             .range(["#EF7087","#A724E8","#8CBAD1","#DDA335","#D981D5","#82CE8C","#839BE6","#C6D445"]);
 
@@ -21,22 +38,7 @@ $(function() {
 
   var D3_TreeMap = function(dataSet) {
     'use strict';
-    // sliding effect
-
-     $(".slide").on('click', function(e) {
-       var $this = $(this);
-       var active = $this.parents('ul#nav-ul').find('li.active');
-       active.removeClass('active');
-       $this.addClass('active');
-
-       var linkHref = $this.find('a').attr('href');
-       $('html, body').animate({
-         scrollTop: $(linkHref).offset().top
-       });
-       e.preventDefault();
-     });
-
-
+    
         //color = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
     const treemap = d3.treemap().size([width, height]);
@@ -216,120 +218,3 @@ $(function() {
   D3_TreeMap(dataset);
   barChart();
 });
-
-
-/*
-
-const margin = {top: 40, right: 10, bottom: 10, left: 10},
-      width = window.innerWidth - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom,
-      color = d3.scaleOrdinal().range(d3.schemeCategory20c);
-
-const treemap = d3.treemap().size([width, height]);
-
-const div = d3.select("body").append("div")
-    .style("position", "relative")
-    .style("width", (width + margin.left + margin.right) + "px")
-    .style("height", (height + margin.top + margin.bottom) + "px")
-    .style("left", ((window.innerWidth - (width + margin.left + margin.right)) + margin.left) /2 + "px")
-    .style("top", margin.top + "px");
-
-d3.json("/DataAsArt/assets/json/test.json", function(error, data) {
-  if (error) throw error;
-
-  const root = d3.hierarchy(data, (d) => d.children)
-    .sum((d) => d.value);
-
-  const tree = treemap(root);
-  const node = div.datum(root).selectAll(".node")
-      .data(tree.leaves())
-      .enter().append("div")
-      .attr("class", "node")
-      .style("left", (d) => d.x0 + "px")
-      .style("top", (d) => d.y0 + "px")
-      .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
-      .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
-      .style("background", (d) => {
-        return color(d.parent.data.name);
-      });
-  node.append('text')
-      .text((d) => {
-        return d.data.name;
-      });
-
-  d3.selectAll("input").on("change", function change() {
-    const value = this.value === "count" ? (d) => { return d.value ? 1 : 0;} : (d) => { return d.value; };
-
-    const newRoot = d3.hierarchy(data, (d) => d.children)
-      .sum(value);
-
-    node.data(treemap(newRoot).leaves())
-      .transition()
-        .duration(1500)
-        .style("left", (d) => d.x0 + "px")
-        .style("top", (d) => d.y0 + "px")
-        .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
-        .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
-  });
-});
-
-var years = [];
-for(var i = 2000; i < 2016; i++) {
-  years.push(i);
-}
-
-$( "#slider-range-max" ).slider({
-    range: "max",
-    min: 2000,
-    max: 2015,
-    value: 2000,
-    slide: function( event, ui ) {
-      $( "#amount" ).val(ui.value);
-      switchImg(ui.value);
-
-    }
-});
-$("#amount").val($("#slider-range-max").slider("value"));
-
-console.log(years);
-var switchImg = function(year) {
-  var imgSrc = $("img");
-  var age = $('#age');
-  console.log(age);
-  for(var i = 2000; i < 2016; i++) {
-    if(i === +year) {
-      if(i === 2000) {
-        imgSrc.prop('src', 'images/76.jpg');
-        age.text('76');
-      } else if(i >= 2001 && i <= 2004) {
-        imgSrc.prop('src', 'images/77.jpg');
-        age.text('77');
-      } else if(i >= 2005 && i <= 2010) {
-        imgSrc.prop('src', 'images/78.jpg');
-        age.text('78');
-      } else if(i >= 2011 && i <= 2014) {
-        imgSrc.prop('src', 'images/79.jpg');
-        age.text('79');
-      } else if(i === 2015) {
-        imgSrc.prop('src', 'images/80.jpg');
-        age.text('80');
-      }
-    }
-  }
-}
-
-// sliding effect
-$(".slide").on('click', function(e) {
-  var $this = $(this);
-  var active = $this.parents('ul#nav-ul').find('li.active');
-  active.removeClass('active');
-  $this.addClass('active');
-
-  var linkHref = $this.find('a').attr('href');
-  $('html, body').animate({
-    scrollTop: $(linkHref).offset().top
-  });
-  e.preventDefault();
-});
-
-*/
