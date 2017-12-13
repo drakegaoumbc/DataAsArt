@@ -14,8 +14,6 @@ $(function() {
      e.preventDefault();
    });*/
 
-
-
   const color = d3.scaleOrdinal()
             .range(["#EF7087","#A724E8","#8CBAD1","#DDA335","#D981D5","#82CE8C","#839BE6","#C6D445"]);
 
@@ -88,10 +86,13 @@ $(function() {
           //   onClick(this.value, div, root);
           // });
       });
-      d3.selectAll(".btn").on('change', function() {
-        //
-        d3.json(this.value, function(error, data2) {
 
+      // switch data on treemap
+      d3.selectAll(".btn").on('change', function() {
+        // this.value is the value attr in the radio button
+        d3.json(this.value, function(error, data2) {
+          var year = $("input:checked").parent().text();
+          
           const root = d3.hierarchy(data2, (d) => d.children).sum((d) => (d.value));
           const treeMap = treemap(root);
           var node = div.datum(root).selectAll(".node").data(treeMap.leaves());
@@ -106,28 +107,30 @@ $(function() {
                   })
                   .text(function (d) { return d.data.name; });
           });
-          var year = $("input:checked").parent().text();
 
+          var year = $("input:checked").parent().text();
+          console.log("Year: " + year);
           // legendGen
           var ledgColors = ["#EF7087","#A724E8","#8CBAD1","#DDA335","#D981D5","#82CE8C","#839BE6","#C6D445"];
           var ledgLabels;
-            if(year == "1980") {
-              ledgLabels = ["Diseases of heart", "Malignant neoplasms", "Cerebrovascular diseases", "Unintentional injuries", "Pneumonia and influenza", "Diabetes mellitus", "Chronic obstructive pulmonary diseases", "Homicide"];
-            } else if(year == "2009") {
-              ledgLabels = ["Diseases of heart", "Malignant neoplasms", "Cerebrovascular diseases", "Unintentional injuries", "Pneumonia and influenza", "Diabetes mellitus", "Nephritis and hrotic syndrome and nephrosis", "Septicemia"];
-            }
-            // remove original
-            $("#chart").replaceWith("<div id='chart'></div>");
-            legendGen(2009);
-      });
+          if(year == "1980") {
+            ledgLabels = ["Diseases of heart", "Malignant neoplasms", "Cerebrovascular diseases", "Unintentional injuries", "Pneumonia and influenza", "Diabetes mellitus", "Chronic obstructive pulmonary diseases", "Homicide"];
+          } else if(year == "2009") {
+            ledgLabels = ["Diseases of heart", "Malignant neoplasms", "Cerebrovascular diseases", "Unintentional injuries", "Pneumonia and influenza", "Diabetes mellitus", "Nephritis and hrotic syndrome and nephrosis", "Septicemia"];
+          }
+          // remove original legends and replace the new one
+          $("#chart").replaceWith("<div id='chart'></div>");
+          legendGen(year);
 
-      // legend
-      legendGen(1980);
+          // change barchart
+          $("#barchart").replaceWith("<div id='barchart'></div>");
+          barChartUpdate(year);
+      });
   }
 
   // legend
   var legendGen = function(year) {
-    /// legend
+    /// legendd
     var ledgColors = ["#EF7087","#A724E8","#8CBAD1","#DDA335","#D981D5","#82CE8C","#839BE6","#C6D445"];
     var ledgLabels;
       if(year == "1980") {
@@ -135,86 +138,111 @@ $(function() {
       } else if(year == "2009") {
         ledgLabels = ["Diseases of heart", "Malignant neoplasms", "Cerebrovascular diseases", "Unintentional injuries", "Pneumonia and influenza", "Diabetes mellitus", "Nephritis and hrotic syndrome and nephrosis", "Septicemia"];
       }
-      var ledg = d3.select("#chart").append("div").attr("margin-top", 0)
+      var ledg = d3.select("#chart").append("div").attr("margin-top", 2)
                 .style("position", "relative")
                 .style("width", width + "px")
-                .style("height", 300 + "px");
+                .style("height", 500 + "px");
 
       for (var i = 0; i < 12; i++) {
           ledg.append('div')
               .attr("class","ledg")
               .style("width", "350px")
-              .style("height", "15px")
+              .style("height", "30px")
               .style("left", "5px")
-              .style("top", function (d) { return (55 + 18*i) + "px" })
+              .style("top", function (d) { return (50 + 42*i) + "px" })
               .text(function (d) { return ledgLabels[i] })
-              .style("background", function (d) { return ledgColors[i] });
+              .style("background", function (d) { return ledgColors[i] })
+              .style("color", "black");
       }
   }
-  /////////// bar chart
-  var barChart = function() {
-        var margin = {top: 50, right: 20, bottom: 30, left: 40},
-            width = 700 - margin.left - margin.right,
-            height = 250 - margin.top - margin.bottom;
 
-        // set ranges
-        var x = d3.scaleBand()
-                  .range([0, width])
-                  .padding(0.1);
-        var y = d3.scaleLinear().rangeRound([height, 0]);
+  var barChartUpdate = function() {
+    var year = $('input:checked').parent().text();
+    var dataSet2 = (year == "1980") ? "/DataAsArt/assets/csvfiles/data.csv" : "/DataAsArt/assets/csvfiles/data2.csv";
 
-        var svg = d3.select("div#barchart").append("svg")
-                    .attr("width", width + margin.left + margin.right)
-                    .attr("height", height + margin.top + margin.bottom + 200)
-                    .append("g")
-                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      var margin = {top: 50, right: 20, bottom: 30, left: 40},
+          width = 700 - margin.left - margin.right,
+          height = 400 - margin.top - margin.bottom;
 
-        d3.csv("/DataAsArt/assets/csvfiles/data.csv", function(error, data) {
-          if(error) throw error;
+      // set ranges
+      var x = d3.scaleBand()
+                .range([0, width])
+                .padding(0.1);
+      var y = d3.scaleLinear().rangeRound([height, 0]);
 
-          data.forEach(function(d) {
-            d.value = +d.value;
-          });
+      var svg = d3.select("div#barchart").append("svg")
+                  .attr("width", width + margin.left + margin.right)
+                  .attr("height", height + margin.top + margin.bottom + 200)
+                  .append("g")
+                  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-          x.domain(data.map(function(d) {return d.group;}));
-          y.domain([0, d3.max(data, function(d) { return (d.value+0.1); })]);
+      var tool = d3.select("body").append("div").attr("class", "toolTip");
 
-          // append retangles
-          svg.selectAll(".bar").data(data)
-             .enter().append("rect")
-             .attr("class", "bar")
-             .style("fill", (d) => {
-                return color(d.color);
-              })
-             .attr("x", function(d) {return x(d.group);})
-             .attr("width", x.bandwidth())
-             .attr("y", function(d) {return y(d.value);})
-             .attr("height", function(d) {return height - y(d.value);});
+      d3.csv(dataSet2, function(error, data) {
+        if(error) throw error;
 
-          var txt = d3.select(".bar--x");
-          svg.append("g")
-             .attr("class", "bar--x")
-             .attr("transform", "translate(0," + height + ")")
-             .call(d3.axisBottom(x).ticks(10))
-            .selectAll("text")
-              .style("display", "none");
-
-
-          svg.append("g")
-             .call(d3.axisLeft(y).ticks(10, "%"))
-             .append("text")
-             .attr("y", 35)
-             .attr("text-anchor", "end")
-             .text("Percentage");
+        data.forEach(function(d) {
+          d.value = +d.value;
         });
+
+        x.domain(data.map(function(d) {return d.group;}));
+        y.domain([0, d3.max(data, function(d) { return (d.value+0.1); })]);
+
+        // append retangles
+        var barGraph = svg.selectAll(".bar").data(data).enter().append("rect").attr("class", "bar")
+                          .style("fill", (d) => {
+                            return color(d.color);
+                          });
+                          
+           barGraph.transition().duration(500)
+           .attr("x", function(d) {return x(d.group);})
+           .attr("width", x.bandwidth())
+           .attr("y", function(d) {return y(d.value);})
+           .attr("height", function(d) {return height - y(d.value);});
+
+        var txt = d3.select(".bar--x");
+        svg.append("g")
+           .attr("class", "bar--x")
+           .attr("transform", "translate(0," + height + ")")
+           .call(d3.axisBottom(x).ticks(10))
+          .selectAll("text")
+          .style("text-anchor", "end")
+          .attr("dx", "-.8em")
+          .attr("dy", ".15em")
+          .attr("transform", "rotate(-65)")
+          .style("display", "block");
+
+        svg.append("g")
+           .call(d3.axisLeft(y).ticks(10, "%"))
+           .append("text")
+           .attr("y", 35)
+           .attr("text-anchor", "end")
+           .text("Percentage");
+      });
+
+      /*
+      d3.selectAll(".btn").on('change', function() {
+        
+      });*/
+
+
+
   }
 
+  /////////// bar chart
+  var barChart = function() {
+     barChartUpdate();
+      
+  }
 
+/*
   console.log()
-  var dataAge = [77.79, 77.83, 77.85, 77.97, 78.07, 78.43, 78.63, 79.01, 79.16, 79.25, 79.36, 79.85, 80];
+  var dataAge = [77.79, 77.83, 77.85, 77.97, 78.07, 78.43, 78.63, 79.01, 79.16, 79.25, 79.36, 79.85, 80];*/
 
   var dataset = $('input[name=year]:checked').val();
   console.log(dataset);
   D3_TreeMap(dataset);
-  barChart();
+  legendGen(1980)
+  barChartUpdate(1980);
+  //barChart();
 });
