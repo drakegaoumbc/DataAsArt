@@ -297,33 +297,32 @@ var width = 500,
         return ((d.linePer / spiralLength) * 100) + "%";
       })
 
-
-    var tooltip2 = d3.select("#chart4")
+var tooltip = d3.select("#chart4")
     .append('div')
-    .attr('class', 'tooltip2');
+    .attr('class', 'tooltip');
 
-    tooltip2.append('div')
+    tooltip.append('div')
     .attr('class', 'date');
-    tooltip2.append('div')
+    tooltip.append('div')
     .attr('class', 'value');
 
     svg.selectAll("rect")
     .on('mouseover', function(d) {
 
-        tooltip2.select('.date').html("Year: <b>" + d.cat + "</b>");
-        tooltip2.select('.value').html("Life Expectancy: <b>" + d.value + "<b>");
+        tooltip.select('.date').html("Year: <b>" + d.cat + "</b>");
+        tooltip.select('.value').html("Life Expectancy: <b>" + d.value + "<b>");
 
         d3.select(this)
         .style("fill","#FFFFFF")
         .style("stroke","#000000")
         .style("stroke-width","2px");
 
-        tooltip2.style('display', 'block');
-        tooltip2.style('opacity',2);
+        tooltip.style('display', 'block');
+        tooltip.style('opacity',2);
 
     })
     .on('mousemove', function(d) {
-        tooltip2.style('top', (d3.event.layerY + 10) + 'px')
+        tooltip.style('top', (d3.event.layerY + 10) + 'px')
         .style('left', (d3.event.layerX - 25) + 'px');
     })
     .on('mouseout', function(d) {
@@ -335,6 +334,6 @@ var width = 500,
         else {return '#D5005D'}})
         .style("stroke", "none")
 
-        tooltip2.style('display', 'none');
-        tooltip2.style('opacity',0);
-    });
+        tooltip.style('display', 'none');
+        tooltip.style('opacity',0);
+    });   
